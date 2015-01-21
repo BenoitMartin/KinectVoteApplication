@@ -1,0 +1,11 @@
+C:\Enseignements\2014-2015\ESAIP\VoteManager\TestKinect\obj\Debug\TestKinect.csprojResolveAssemblyReference.cache
+C:\Enseignements\2014-2015\ESAIP\VoteManager\TestKinect\bin\Debug\TestKinect.dll
+C:\Enseignements\2014-2015\ESAIP\VoteManager\TestKinect\bin\Debug\TestKinect.pdb
+C:\Enseignements\2014-2015\ESAIP\VoteManager\TestKinect\bin\Debug\KinectClient.exe
+C:\Enseignements\2014-2015\ESAIP\VoteManager\TestKinect\bin\Debug\Microsoft.Kinect.dll
+C:\Enseignements\2014-2015\ESAIP\VoteManager\TestKinect\bin\Debug\KinectClient.pdb
+C:\Enseignements\2014-2015\ESAIP\VoteManager\TestKinect\bin\Debug\Microsoft.Kinect.xml
+C:\Enseignements\2014-2015\ESAIP\VoteManager\TestKinect\obj\Debug\TestKinect.dll
+C:\Enseignements\2014-2015\ESAIP\VoteManager\TestKinect\obj\Debug\TestKinect.pdb
+C:\Enseignements\2014-2015\ESAIP\VoteManager\TestKinect\bin\Debug\init_tuto.png
+C:\Enseignements\2014-2015\ESAIP\VoteManager\TestKinect\bin\Debug\vote_image.png

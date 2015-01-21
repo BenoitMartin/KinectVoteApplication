@@ -1,0 +1,29 @@
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\obj\Debug\MainWindow.baml
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\obj\Debug\MainWindow.g.cs
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\obj\Debug\App.g.cs
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\obj\Debug\KinectClient_MarkupCompile.cache
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\obj\Debug\KinectClient.g.resources
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\obj\Debug\KinectClient.Properties.Resources.resources
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\obj\Debug\KinectClient.csproj.GenerateResource.Cache
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\bin\Debug\KinectClient.exe.config
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\bin\Debug\KinectClient.exe
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\bin\Debug\KinectClient.pdb
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\bin\Debug\Microsoft.Kinect.dll
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\bin\Debug\Microsoft.Kinect.xml
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\obj\Debug\KinectClient.exe
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\obj\Debug\KinectClient.pdb
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\bin\Debug\init_tuto.png
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\bin\Debug\vote_image.png
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\obj\Debug\KinectClient_Content.g.cs
+C:\Enseignements\2014-2015\ESAIP\VoteManager\KinectClient\obj\Debug\KinectClient.csprojResolveAssemblyReference.cache
+D:\Mes Documents\Esaip\3ème année\C# - .net\TP Final\VoteManager - BASE\VoteManager - BASE\KinectClient\obj\Debug\KinectClient.csprojResolveAssemblyReference.cache
+D:\Mes Documents\Esaip\3ème année\C# - .net\TP Final\VoteManager - BASE\VoteManager - BASE\KinectClient\obj\Debug\MainWindow.baml
+D:\Mes Documents\Esaip\3ème année\C# - .net\TP Final\VoteManager - BASE\VoteManager - BASE\KinectClient\obj\Debug\MainWindow.g.cs
+D:\Mes Documents\Esaip\3ème année\C# - .net\TP Final\VoteManager - BASE\VoteManager - BASE\KinectClient\obj\Debug\App.g.cs
+D:\Mes Documents\Esaip\3ème année\C# - .net\TP Final\VoteManager - BASE\VoteManager - BASE\KinectClient\obj\Debug\KinectClient_Content.g.cs
+D:\Mes Documents\Esaip\3ème année\C# - .net\TP Final\VoteManager - BASE\VoteManager - BASE\KinectClient\obj\Debug\KinectClient_MarkupCompile.cache
+D:\Mes Documents\Esaip\3ème année\C# - .net\TP Final\VoteManager - BASE\VoteManager - BASE\KinectClient\obj\Debug\KinectClient.g.resources
+D:\Mes Documents\Esaip\3ème année\C# - .net\TP Final\VoteManager - BASE\VoteManager - BASE\KinectClient\obj\Debug\KinectClient.Properties.Resources.resources
+D:\Mes Documents\Esaip\3ème année\C# - .net\TP Final\VoteManager - BASE\VoteManager - BASE\KinectClient\obj\Debug\KinectClient.csproj.GenerateResource.Cache
+D:\Mes Documents\Esaip\3ème année\C# - .net\TP Final\VoteManager - BASE\VoteManager - BASE\KinectClient\obj\Debug\KinectClient.exe
+D:\Mes Documents\Esaip\3ème année\C# - .net\TP Final\VoteManager - BASE\VoteManager - BASE\KinectClient\obj\Debug\KinectClient.pdb

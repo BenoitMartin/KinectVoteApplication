@@ -1,0 +1,22 @@
+﻿<Window x:Class="KinectClient.MainWindow"
+          xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Height="1000" Width="1000" 
+        Loaded="MainWindow_Loaded"
+        Title="MainWindow">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="300"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Image Name="ImageInit" Grid.Row="0" Visibility="hidden" Source="init_tuto.png"/>
+        <Image Name="ImageVote" Visibility="hidden" Grid.Row="0" Source="vote_image.png"/>
+        <Viewbox Grid.Row="1" HorizontalAlignment="Center">
+            <Image Source="{Binding ImageSource}" Stretch="UniformToFill" />
+        </Viewbox>
+        <TextBox Grid.Row="2" Name="TexteReconnu" FontSize="40"/>
+
+    </Grid>
+</Window>

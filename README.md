@@ -1,5 +1,5 @@
 # KinectVoteApplication
-A school project of voting with the kinect 
+*A school project of voting with the kinect *
 
 The subject was about elections and votes. We splitted in 4 groups.
 Each one had a different approach. The 4 approach were :
